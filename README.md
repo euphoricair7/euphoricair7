@@ -1,17 +1,19 @@
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)](https://github.com/YOUR_USERNAME)
+## 📊 GitHub Stats
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)](https://github.com/YOUR_USERNAME)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=euphoricair7&show_icons=true&theme=radical)](https://github.com/euphoricair7)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)](https://github.com/YOUR_USERNAME)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=euphoricair7&layout=compact&theme=radical)](https://github.com/euphoricair7)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=euphoricair7&theme=radical)](https://github.com/euphoricair7)
 
 <!-- Activity Graph -->
-[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=react-dark)](https://github.com/YOUR_USERNAME)
+[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=euphoricair7&theme=react-dark)](https://github.com/euphoricair7)
 
 <!-- Profile Trophy -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark)](https://github.com/YOUR_USERNAME)
+[![trophy](https://github-profile-trophy.vercel.app/?username=euphoricair7&theme=onedark)](https://github.com/euphoricair7)
 
 <!-- Profile Views -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=euphoricair7&color=brightgreen)
 
 <!-- Languages and Tools -->
 ## 🛠️ Languages and Tools
