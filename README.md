@@ -4,7 +4,6 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=euphoricair7&layout=compact&theme=radical)](https://github.com/euphoricair7)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=euphoricair7&theme=radical)](https://github.com/euphoricair7)
 
 
 
