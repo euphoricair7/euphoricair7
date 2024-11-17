@@ -6,14 +6,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=euphoricair7&theme=radical)](https://github.com/euphoricair7)
 
-<!-- Activity Graph -->
-[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=euphoricair7&theme=react-dark)](https://github.com/euphoricair7)
 
-<!-- Profile Trophy -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=euphoricair7&theme=onedark)](https://github.com/euphoricair7)
 
-<!-- Profile Views -->
-![Profile Views](https://komarev.com/ghpvc/?username=euphoricair7&color=brightgreen)
 
 <!-- Languages and Tools -->
 ## 🛠️ Languages and Tools
