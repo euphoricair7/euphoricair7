@@ -1,4 +1,30 @@
-## 🎨 Fun ASCII Art
+                              !         !          
+                             ! !       ! !          
+                            ! . !     ! . !          
+                               ^^^^^^^^^ ^            
+                             ^             ^          
+                           ^  (0)       (0)  ^       
+                          ^        ""         ^       
+                         ^   ***************    ^     
+                       ^   *                 *   ^    
+                      ^   *   /\   /\   /\    *    ^   
+                     ^   *                     *    ^
+                    ^   *   /\   /\   /\   /\   *    ^
+                   ^   *                         *    ^
+                   ^  *                           *   ^
+                   ^  *                           *   ^
+                    ^ *                           *  ^  
+                     ^*                           * ^ 
+                      ^ *                        * ^
+                      ^  *                      *  ^
+                        ^  *       ) (         * ^
+                            ^^^^^^^^ ^^^^^^^^^ 
+                        "Welcome hereee :)"
+
+------------------------------------------------
+Thank you for visiting https://asciiart.website/
+This ASCII pic can be found at
+https://asciiart.website/index.php?art=anime%20and%20manga/my%20neighbor%20totoro
 
 
 
