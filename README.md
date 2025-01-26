@@ -8,6 +8,9 @@
 
 
 
+## 🗺️ Contribution Graph
+![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=euphoricair&theme=github)
+
 
 
 <!-- Languages and Tools -->
