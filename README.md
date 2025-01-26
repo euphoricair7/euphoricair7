@@ -4,7 +4,7 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=euphoricair7&show_icons=true&theme=dark)
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=euphoricair7&layout=compact&theme=radical)](https://github.com/euphoricair7)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=euphoricair7&layout=compact&theme=dark)](https://github.com/euphoricair7)
 
 
 
@@ -20,4 +20,3 @@
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Verilog](https://img.shields.io/badge/-Verilog-FFA500?style=flat-square&logo=verilog&logoColor=black)
- fix this
