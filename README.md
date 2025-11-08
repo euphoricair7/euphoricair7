@@ -9,7 +9,5 @@
 > good systems are like good poems —  
 > minimal, expressive, inevitable.  
 > I build with rhythm, curiosity, and quiet rebellion.  
-> *no frameworks, just flow.*  
-> *no sandboxing, just passion.*
-
+> *else? prolly sleeping*
 ---
