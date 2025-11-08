@@ -13,9 +13,3 @@
 > *no sandboxing, just passion.*
 
 ---
-
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWMzdmU0MDQ0MTY4eW1waGZ4eHFicHp0dDQ0MmFidGtlczg3ZTk1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FQzTieTUOeXDO/giphy.gif" width="200" alt="cat typing gif">
-</p>
-
-> 🐈 I like cats — they understand independence and silence.
