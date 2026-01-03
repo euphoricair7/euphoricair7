@@ -6,7 +6,7 @@
 # hi. 🐾
 
 > building systems that think, connect, and endure.  
-> good systems are like good poems —  
+> good systems are like good poems 
 > minimal, expressive, inevitable.  
 > I build with rhythm, curiosity, and quiet rebellion.  
 > *else? prolly sleeping*
